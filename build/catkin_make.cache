@@ -1,0 +1,2 @@
+mobilerobot:mobilerobotnavigation:turtlebot3_bringup:turtlebot3_description:turtlebot3_gazebo:turtlebot3_msgs:turtlebot3_navigation:turtlebot3_slam:turtlebot3_teleop
+-DCATKIN_DEVEL_PREFIX=/home/ricardo/Desktop/autonomousDrivingCourse/devel -DCMAKE_INSTALL_PREFIX=/home/ricardo/Desktop/autonomousDrivingCourse/install -G Unix Makefiles

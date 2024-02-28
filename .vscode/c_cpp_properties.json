@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ricardo/Desktop/catkin_folder/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ricardo/Desktop/catkin_folder/src/adl200_core/include/**",
+        "/home/ricardo/Desktop/catkin_folder/src/adl200_motor_driver/include/**",
+        "/home/ricardo/Desktop/catkin_folder/src/can_handler/include/**",
+        "/home/ricardo/Desktop/catkin_folder/src/geonav_transform-master/include/**",
+        "/home/ricardo/Desktop/autonomousDrivingCourse/src/mobilerobot/include/**",
+        "/home/ricardo/Desktop/catkin_folder/src/motor_driver/include/**",
+        "/home/ricardo/Desktop/catkin_folder/src/velocity_sender/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ricardo/Desktop/autonomousDrivingCourse/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ricardo/Desktop/autonomousDrivingCourse/src/mobilerobot/include/**",
+        "/home/ricardo/Desktop/autonomousDrivingCourse/src/mobilerobotnavigation/include/**",
+        "/home/ricardo/Desktop/autonomousDrivingCourse/src/turtlebot3_gazebo/include/**",
+        "/home/ricardo/Desktop/autonomousDrivingCourse/src/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,8 @@
+prefix=/home/ricardo/Desktop/autonomousDrivingCourse/install
+
+Name: mobilerobotnavigation
+Description: Description of mobilerobotnavigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
